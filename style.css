@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+    padding: 0;
+}
+body {    
+    height: 100%;
+    background-color: black;
+}
+.wrapper {
+    
+    margin: 0px 30%;
+    
+    background-color: rgb(197, 195, 195)
+}
+.userinfo {    
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    margin: 2px;
+    padding-bottom: 1px;
+    font-size: 20px;
+}
+span {
+    display: block;
+    margin-bottom: 25px;
+    font-style: italic;
+    font-size: 12px;
+}
+.reg {    
+    padding: 20px;
+    background-color: rgb(226, 169, 169)
+}
+.buttonreg {
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 20px;    
+    background-color: rgb(180, 163, 192);
+    
+}
+.buttonreg:hover {
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    background-color:  rgb(206, 120, 120);
+}
+input:hover {
+    background-color: khaki;
+}
